@@ -1,6 +1,6 @@
 # C Exercise Lists - LINGUAGEM DE PROGRAMAÇÃO/TADS UFPR
 
-Hey there! Welcome to the C Exercise Lists repository for the "LINGUAGEM DE PROGRAMAÇÃO/TADS UFPR" course. Here you'll find a collection of exercises aimed at helping you master the art of programming in C.
+Hey there! Welcome to the C Exercise Lists repository for the "LINGUAGEM DE PROGRAMAÇÃO/TADS UFPR" course.
 
 ## What's Inside?
 
